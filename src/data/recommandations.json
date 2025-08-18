@@ -1,0 +1,92 @@
+[
+  {
+    "id": "rec001",
+    "categorie": "Nutrition",
+    "titre": "Hydratation quotidienne",
+    "description": "Buvez au moins 1,5 litre d'eau par jour pour maintenir une bonne hydratation et favoriser l'élimination des toxines.",
+    "priorite": "Haute",
+    "dateCreation": "2024-08-15",
+    "duree": "Quotidien"
+  },
+  {
+    "id": "rec002",
+    "categorie": "Activité physique",
+    "titre": "Marche quotidienne",
+    "description": "Effectuez 30 minutes de marche rapide par jour pour améliorer votre système cardiovasculaire et maintenir un poids santé.",
+    "priorite": "Haute",
+    "dateCreation": "2024-08-15",
+    "duree": "30 min/jour"
+  },
+  {
+    "id": "rec003",
+    "categorie": "Sommeil",
+    "titre": "Routine de coucher",
+    "description": "Établissez une routine de coucher régulière en vous couchant à la même heure chaque soir pour améliorer la qualité de votre sommeil.",
+    "priorite": "Moyenne",
+    "dateCreation": "2024-08-14",
+    "duree": "Quotidien"
+  },
+  {
+    "id": "rec004",
+    "categorie": "Nutrition",
+    "titre": "Consommation de fruits et légumes",
+    "description": "Consommez au moins 5 portions de fruits et légumes par jour pour apporter les vitamines et minéraux essentiels à votre organisme.",
+    "priorite": "Haute",
+    "dateCreation": "2024-08-13",
+    "duree": "Quotidien"
+  },
+  {
+    "id": "rec005",
+    "categorie": "Prévention",
+    "titre": "Protection solaire",
+    "description": "Appliquez une crème solaire SPF 30+ avant chaque exposition au soleil pour prévenir les dommages cutanés.",
+    "priorite": "Moyenne",
+    "dateCreation": "2024-08-12",
+    "duree": "Selon exposition"
+  },
+  {
+    "id": "rec006",
+    "categorie": "Activité physique",
+    "titre": "Étirements matinaux",
+    "description": "Réalisez 10 minutes d'étirements chaque matin pour améliorer votre flexibilité et réduire les tensions musculaires.",
+    "priorite": "Basse",
+    "dateCreation": "2024-08-11",
+    "duree": "10 min/matin"
+  },
+  {
+    "id": "rec007",
+    "categorie": "Sommeil",
+    "titre": "Écrans avant le coucher",
+    "description": "Évitez les écrans 1 heure avant le coucher pour favoriser la production de mélatonine et améliorer l'endormissement.",
+    "priorite": "Moyenne",
+    "dateCreation": "2024-08-10",
+    "duree": "1h avant coucher"
+  },
+  {
+    "id": "rec008",
+    "categorie": "Nutrition",
+    "titre": "Réduction du sel",
+    "description": "Limitez votre consommation de sel à 5g par jour maximum pour prévenir l'hypertension artérielle.",
+    "priorite": "Haute",
+    "dateCreation": "2024-08-09",
+    "duree": "Quotidien"
+  },
+  {
+    "id": "rec009",
+    "categorie": "Prévention",
+    "titre": "Lavage des mains",
+    "description": "Lavez-vous les mains régulièrement avec du savon pendant au moins 20 secondes pour prévenir les infections.",
+    "priorite": "Haute",
+    "dateCreation": "2024-08-08",
+    "duree": "Plusieurs fois/jour"
+  },
+  {
+    "id": "rec010",
+    "categorie": "Activité physique",
+    "titre": "Montée d'escaliers",
+    "description": "Privilégiez les escaliers à l'ascenseur quand c'est possible pour augmenter votre activité physique quotidienne.",
+    "priorite": "Basse",
+    "dateCreation": "2024-08-07",
+    "duree": "Selon opportunité"
+  }
+]

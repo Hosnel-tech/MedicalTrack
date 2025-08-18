@@ -1,0 +1,68 @@
+[
+  {
+    "id": "rdv001",
+    "medecin": "Dr. Marie Dubois",
+    "specialite": "Médecin généraliste",
+    "date": "2024-08-20",
+    "heure": "09:30",
+    "lieu": "Cabinet médical - 15 rue de la Santé, Paris",
+    "statut": "A venir",
+    "type": "Consultation de suivi",
+    "notes": "Contrôle tension artérielle"
+  },
+  {
+    "id": "rdv003",
+    "medecin": "Dr. Sophie Laurent",
+    "specialite": "Dermatologue",
+    "date": "2024-08-10",
+    "heure": "16:15",
+    "lieu": "Centre dermatologique - 22 boulevard de la Peau, Paris",
+    "statut": "Passe",
+    "type": "Contrôle grains de beauté",
+    "notes": "Examen complet effectué"
+  },
+  {
+    "id": "rdv002",
+    "medecin": "Dr. Pierre Martin",
+    "specialite": "Cardiologue",
+    "date": "2024-08-25",
+    "heure": "14:00",
+    "lieu": "Clinique du Cœur - 8 avenue des Spécialistes, Paris",
+    "statut": "A venir",
+    "type": "Échographie cardiaque",
+    "notes": "Suivi post-opératoire"
+  },
+  {
+    "id": "rdv004",
+    "medecin": "Dr. Jean Moreau",
+    "specialite": "Ophtalmologue",
+    "date": "2024-07-28",
+    "heure": "11:00",
+    "lieu": "Cabinet d'ophtalmologie - 5 place de la Vue, Paris",
+    "statut": "Passe",
+    "type": "Contrôle vision",
+    "notes": "Prescription de nouvelles lunettes"
+  },
+  {
+    "id": "rdv006",
+    "medecin": "Dr. Anne Petit",
+    "specialite": "Dentiste",
+    "date": "2024-09-02",
+    "heure": "15:30",
+    "lieu": "Cabinet dentaire - 12 rue du Sourire, Paris",
+    "statut": "A venir",
+    "type": "Détartrage",
+    "notes": "Nettoyage semestriel"
+  },
+  {
+    "id": "rdv005",
+    "medecin": "Dr. Marie Dubois",
+    "specialite": "Médecin généraliste",
+    "date": "2024-07-15",
+    "heure": "10:45",
+    "lieu": "Cabinet médical - 15 rue de la Santé, Paris",
+    "statut": "Passe",
+    "type": "Consultation générale",
+    "notes": "Bilan de santé annuel"
+  }
+]

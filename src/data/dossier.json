@@ -1,0 +1,104 @@
+{
+  "patient": {
+    "nom": "Dupont",
+    "prenom": "Jean",
+    "dateNaissance": "1985-03-15",
+    "sexe": "M",
+    "groupeSanguin": "A+",
+    "numeroSecu": "1 85 03 75 123 456 78"
+  },
+  "antecedents": [
+    {
+      "id": "ant001",
+      "type": "Chirurgical",
+      "description": "Appendicectomie",
+      "date": "2010-06-12",
+      "medecin": "Dr. Claude Bernard"
+    },
+    {
+      "id": "ant002",
+      "type": "Médical",
+      "description": "Hypertension artérielle",
+      "date": "2020-03-20",
+      "medecin": "Dr. Marie Dubois"
+    },
+    {
+      "id": "ant003",
+      "type": "Familial",
+      "description": "Diabète type 2 (père)",
+      "date": "Information familiale",
+      "medecin": "N/A"
+    }
+  ],
+  "allergies": [
+    {
+      "id": "all001",
+      "substance": "Pénicilline",
+      "severite": "Sévère",
+      "reactions": ["Éruption cutanée", "Difficultés respiratoires"],
+      "dateDecouverte": "2015-08-10"
+    },
+    {
+      "id": "all002",
+      "substance": "Pollen de bouleau",
+      "severite": "Modérée",
+      "reactions": ["Rhinite", "Conjonctivite"],
+      "dateDecouverte": "2018-04-15"
+    }
+  ],
+  "traitements": [
+    {
+      "id": "trait001",
+      "medicament": "Lisinopril 10mg",
+      "posologie": "1 comprimé par jour le matin",
+      "indication": "Hypertension artérielle",
+      "dateDebut": "2020-03-25",
+      "dateFin": null,
+      "medecin": "Dr. Marie Dubois",
+      "actif": true
+    },
+    {
+      "id": "trait002",
+      "medicament": "Aspirine 75mg",
+      "posologie": "1 comprimé par jour",
+      "indication": "Prévention cardiovasculaire",
+      "dateDebut": "2022-01-10",
+      "dateFin": null,
+      "medecin": "Dr. Pierre Martin",
+      "actif": true
+    },
+    {
+      "id": "trait003",
+      "medicament": "Amoxicilline 500mg",
+      "posologie": "3 fois par jour pendant 7 jours",
+      "indication": "Infection respiratoire",
+      "dateDebut": "2024-06-15",
+      "dateFin": "2024-06-22",
+      "medecin": "Dr. Marie Dubois",
+      "actif": false
+    }
+  ],
+  "vaccinations": [
+    {
+      "id": "vacc001",
+      "vaccin": "COVID-19 (Pfizer)",
+      "date": "2023-10-15",
+      "lot": "FL4567",
+      "medecin": "Pharmacie Centrale"
+    },
+    {
+      "id": "vacc002",
+      "vaccin": "Grippe saisonnière",
+      "date": "2023-10-15",
+      "lot": "GR2023",
+      "medecin": "Pharmacie Centrale"
+    },
+    {
+      "id": "vacc003",
+      "vaccin": "DTP (Rappel)",
+      "date": "2022-03-10",
+      "lot": "DTP456",
+      "medecin": "Dr. Marie Dubois"
+    }
+  ]
+}
