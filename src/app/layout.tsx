@@ -6,7 +6,7 @@ import Footer from "@/components/Footer";
 
 const poppins = Poppins({
   subsets: ["latin"],
-  weight: ["400", "500", "600", "700"], // tu choisis les graisses que tu veux
+  weight: ["400", "500", "600", "700"],
 });
 
 export const metadata: Metadata = {
@@ -21,9 +21,9 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <body className={`${poppins.className}`}>
-        <Header />
-        {children}
+      <body className={`${poppins.className} min-h-screen flex flex-col`}>
+        <Header className="sticky top-0 z-50 bg-gradient-to-r from-blue-600 to-blue-800 shadow-md" />
+        <main className="flex-1">{children}</main>
         <Footer />
       </body>
     </html>

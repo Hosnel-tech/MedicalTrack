@@ -1,9 +1,13 @@
 import React from "react";
 import Link from "next/link";
 
-export default function Header() {
+interface HeaderProps {
+  className?: string;
+}
+
+const Header = ({ className = "" }: HeaderProps) => {
   return (
-    <header className="bg-gradient-to-r from-blue-600 to-blue-800 shadow-md">
+    <header className={`${className}`}>
       <div className="container mx-auto py-4 flex justify-between items-center">
         {/* Logo / Nom du site */}
         <Link
@@ -53,4 +57,6 @@ export default function Header() {
       </div>
     </header>
   );
-}
+};
+
+export default Header;
